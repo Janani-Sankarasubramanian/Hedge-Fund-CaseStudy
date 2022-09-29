@@ -12,4 +12,7 @@ I considered factors such as P/E ratio P/E growth ratio, EPS for several past qu
 ### Machine Learning Model
 Trained a decision tree regressor model for stock price prediction.
 
+### Metrics
+Metrics used were Mean Absolute error, Mean squared error and Root mean squared error.
+
 
