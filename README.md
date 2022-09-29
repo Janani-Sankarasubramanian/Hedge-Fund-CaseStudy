@@ -1,4 +1,5 @@
-# Hedge-Fund-CaseStudy
+# Hedge Fund Case Study 
+## Project submission for DS 501- Introduction to Data science course at WPI
 
 What if we were to fundamentally transform the way hedge funds operate? If we could find a way for hedge funds to invest in equities that are less risky, but still provide a higher return, we are helping investors eliminate a part or all of their risk. This project's main aim is to address this problem by performing a risk analysis on several equities using various factors used to measure the financial health of an equity.
 
