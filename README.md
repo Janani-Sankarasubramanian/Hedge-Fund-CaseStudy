@@ -8,3 +8,8 @@ Used Quantopian.com research environment, created data collection pipelines to a
 ### Features
 
 I considered factors such as P/E ratio P/E growth ratio, EPS for several past quarters, market capitalization, Sharpe ratio and market sentiment through Twitter. All the ratios are calculated for an adjusted closing price of an equity. I used a Morningstar fundamental data field called normalized_basic_eps since it is a more accurate representation of a company's recent quaterly earnings.  The normalized EPS excludes one-time and unusual expenses and acts as a measure for a company's true earnings.  By relying on the accuracy of the factors used to measure a company's fundamentals, we perform due diligence for the investor, reducing a part of the risk.
+
+### Machine Learning Model
+Trained a decision tree regressor model for stock price prediction.
+
+
